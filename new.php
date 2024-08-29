@@ -1,4 +1,5 @@
 <?php
+
 $leftImageSrc = "./assets/ford.jpg"; 
 $leftName = "Clifford Bayangos";
 $leftLinkedinUrl = "https://www.linkedin.com/in/clifford-bayangos-bab8a92b5/";
